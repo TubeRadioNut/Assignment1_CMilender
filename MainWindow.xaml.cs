@@ -19,6 +19,7 @@ namespace Assignment1_CMilender
     public partial class MainWindow : Window
     {
         //Charles was here
+        //Charles will be leaving soon
         public MainWindow()
         {
             InitializeComponent();
